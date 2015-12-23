@@ -3,7 +3,7 @@
     "type": "library",
     "description": "PHP class that creates animated GIF from multiple images",
     "keywords": ["gif", "animated", "creation", "encode", "PHP"],
-    "homepage": "https://github.com/Sybio/GifCreator",
+    "homepage": "https://github.com/visualweber/gif-creator",
     "license": "MIT",
     "authors": [
         {
