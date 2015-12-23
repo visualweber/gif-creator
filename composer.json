@@ -1,5 +1,5 @@
 {
-    "name": "visualweber/GifCreator",
+    "name": "visualweber/gif-creator",
     "type": "library",
     "description": "PHP class that creates animated GIF from multiple images",
     "keywords": ["gif", "animated", "creation", "encode", "PHP"],
